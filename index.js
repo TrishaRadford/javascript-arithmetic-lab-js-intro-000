@@ -25,7 +25,7 @@ var result = --n;
 return result;
 }
 
-makeInt(string) {
+function makeInt(string) {
   var n = parseInt('10');
 return n;
 }
