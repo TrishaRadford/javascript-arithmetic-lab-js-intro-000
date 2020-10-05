@@ -25,9 +25,9 @@ var result = --n;
 return result;
 }
 
-function makeInt(n) {
-  var n = parseInt('10');
-return n;
+function makeInt(string) {
+  parseInt("10", 3);
+  console.log(parseInt("10"));
 }
 function preserveDecimal (string) {
   parseFloat('10.0000', 5);
