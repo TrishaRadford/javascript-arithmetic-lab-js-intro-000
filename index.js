@@ -26,9 +26,8 @@ return result;
 }
 var n = 10;
 function makeInt(n) {
-var b = parseInt(n);
+var b = parseInt(n, 10);
   return b;
-  parseInt('10', 0);
 }
 var n = 10.000;
 function preserveDecimal(n) {
