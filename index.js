@@ -1,6 +1,8 @@
-function add(){
-  var number = 1;
-  number++;
+function add(a,b){
+  var a = 1;
+  var b = 2;
+  var result = a + b;
+  return result;
 }
 function subtract(){
   var a = 1;
