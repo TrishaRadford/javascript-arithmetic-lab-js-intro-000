@@ -24,7 +24,7 @@ function decrement(n) {
 var result = --n;
 return result;
 }
-var n = 5
+var n = 5;
 console.log(n);
 }
 function preserveDecimal (string) {
