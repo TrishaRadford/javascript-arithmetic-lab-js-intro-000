@@ -17,5 +17,5 @@ function divide(a, b){
 var number = 5;
 function increment(){
   number++;
-  return (number);
+  return number;
 }
