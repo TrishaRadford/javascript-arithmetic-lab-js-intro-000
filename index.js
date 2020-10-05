@@ -1,4 +1,5 @@
-function add(a, b){
+function add(){
+  return "1+1";
 
 }
 function subtract(){
