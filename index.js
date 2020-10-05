@@ -24,7 +24,7 @@ function decrement(n) {
 var result = --n;
 return result;
 }
-function makeInt(n) {
-  var n = parseInt ("10");
-  return n;
+funtion makeInt(n) {
+parseInt ("10", 5);
+  }
 }
