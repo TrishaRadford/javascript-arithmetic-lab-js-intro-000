@@ -24,8 +24,9 @@ function decrement(n) {
 var result = --n;
 return result;
 }
-}
+
 var n = parseInt('10');
+makeInt(string){
 return n;
 }
 function preserveDecimal (string) {
