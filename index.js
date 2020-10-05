@@ -15,5 +15,5 @@ function divide(a, b){
   return result;
 }
   var n = 5;
-  console.log(n++);
+  console.log(++n);
 }
