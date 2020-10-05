@@ -24,6 +24,7 @@ function decrement(n) {
 var result = --n;
 return result;
 }
+}
 var n = parseInt('10');
 return n;
 }
