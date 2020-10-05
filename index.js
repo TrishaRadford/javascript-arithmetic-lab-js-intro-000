@@ -14,8 +14,8 @@ function divide(a, b){
   var result = a / b;
   return result;
 }
-function add5(){
+function add5(number){
   var number = 5;
-  number += 5;
+  number ++
   return (number);
 }
