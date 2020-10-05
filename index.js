@@ -1,5 +1,8 @@
 function add(a, b){
-  add(1, 2) // 3
+  var a = 8;
+  var b = 1;
+  var c = a = b;
+  return "c";
 }
 function subtract(a,b){
 
