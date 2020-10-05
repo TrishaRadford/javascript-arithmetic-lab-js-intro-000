@@ -26,5 +26,4 @@ return result;
 }
 funtion makeInt(n) {
 parseInt ("10", 5);
-  }
 }
