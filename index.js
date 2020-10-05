@@ -14,8 +14,8 @@ function divide(a, b){
   var result = a / b;
   return result;
 }
+var n = 5
 function increment(){
-  var n = 5;
   var result = n++;
   return result;
 }
