@@ -27,7 +27,7 @@ return result;
 
 function makeInt(string) {
   parseInt("10", 3);
-  return parseInt("10");
+  return parsed * 10;
 }
 function preserveDecimal (string) {
   parseFloat("10.0000", 5);
