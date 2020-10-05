@@ -29,9 +29,10 @@ function makeInt(n) {
 var b = parseInt(n);
   return b;
   parseInt('10');
+  return "10";
 }
 var n = 10.000;
-function preserveDecimal (n) {
+function preserveDecimal(n) {
   var b = parseFloat(n);
   return b;
 }
