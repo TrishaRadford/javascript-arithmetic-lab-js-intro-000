@@ -1,8 +1,6 @@
-function add(a, b){
-  var a = 8;
-  var b = 1;
-  var c = a = b;
-  return "c";
+function add(){
+  var result = a+b;
+  return result;
 }
 function subtract(a,b){
 
