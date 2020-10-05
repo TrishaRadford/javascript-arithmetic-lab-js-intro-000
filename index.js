@@ -26,6 +26,7 @@ return result;
 }
 function makeInt(n) {
 parseInt ("10");
+console.log(parseInt("10"));
 }
 function preserveDecimal(n) {
   parseInt ("10.0000")
