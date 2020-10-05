@@ -1,14 +1,12 @@
-var number = 10
-function add(){
-  number += 5
+function add(a,b){
+  a + b
+}
+function subtract(a,b){
 
 }
-function subtract(){
+function multiply (a,b){
 
 }
-function multiply (){
-
-}
-function divide (){
+function divide (a,b){
 
 }
