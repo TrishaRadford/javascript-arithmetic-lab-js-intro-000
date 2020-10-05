@@ -31,5 +31,6 @@ var b = parseInt(n);
 }
 varn n = 10.000
 function preserveDecimal (n) {
-  parseFloat("10.0000", 5);
+  var b = parseInt(n);
+  return b;
 }
