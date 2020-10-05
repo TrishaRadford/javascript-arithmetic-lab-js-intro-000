@@ -14,7 +14,7 @@ function divide(a, b){
   var result = a / b;
   return result;
 }
-{
+function add5(){
 var number = 5;
 number ++;
 }
