@@ -25,5 +25,10 @@ var result = --n;
 return result;
 }
 function makeInt(n) {
+  var n = 5;
 parseInt ("10", 5);
+}
+function preserveDecimal(n) {
+  var n = 5;
+  parseInt ("10.0000", 2)
 }
