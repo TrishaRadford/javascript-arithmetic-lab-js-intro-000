@@ -25,8 +25,8 @@ var result = --n;
 return result;
 }
 
-var n = parseInt('10');
-makeInt(string){
+makeInt(string) {
+  var n = parseInt('10');
 return n;
 }
 function preserveDecimal (string) {
