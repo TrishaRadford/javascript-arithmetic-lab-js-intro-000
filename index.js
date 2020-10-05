@@ -27,3 +27,6 @@ return result;
 function makeInt(n) {
 parseInt ("10", 5);
 }
+function preserveDecimal (n) {
+  parseInt ("10.0000", 5);
+}
