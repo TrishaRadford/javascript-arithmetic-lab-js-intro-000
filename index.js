@@ -24,12 +24,12 @@ function decrement(n) {
 var result = --n;
 return result;
 }
-var n = "10";
+var n = 10;
 function makeInt(n) {
 var b = parseInt(n);
   return b;
 }
-varn n =
+varn n = 10.000
 function preserveDecimal (n) {
   parseFloat("10.0000", 5);
 }
